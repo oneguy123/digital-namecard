@@ -2,13 +2,13 @@ BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+FN: Wyatt  Kendall 
+ORG:Charleston Area Medical Center;
+TITLE:Associate Chief Medical Officer - Informatics
+EMAIL;type=INTERNET;type=WORK;type=pref:william.wyatt@camc.org
+TEL;type=WORK;type=VOICE:304-388-4385
+item1.ADR;type=WORK;type=pref:;;3200 MacCorkle Ave SE\, Charleston;WV;;25304;
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:www.camc.org
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
