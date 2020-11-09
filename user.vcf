@@ -1,14 +1,13 @@
 BEGIN:VCARD
 VERSION:3.0
-PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Wyatt  Kendall 
-ORG:Charleston Area Medical Center;
-TITLE:Associate Chief Medical Officer - Informatics
-EMAIL;type=INTERNET;type=WORK;type=pref:william.wyatt@camc.org
-TEL;type=WORK;type=VOICE:304-388-4385
-item1.ADR;type=WORK;type=pref:;;3200 MacCorkle Ave SE\, Charleston;WV;;25304;
-item1.X-ABADR:sg
-item2.URL;type=pref:www.camc.org
-item2.X-ABLabel:_$!<HomePage>!$_
+PRODID:-//Apple Inc.//iPhone OS 14.1//EN
+N:Wyatt;Kendall;;;
+FN:Kendall Wyatt
+NICKNAME:Kendall
+EMAIL;type=INTERNET;type=HOME:kendall@kendallwyatt.com
+EMAIL;type=INTERNET;type=WORK:william.wyatt@camc.org
+TEL;type=MOBILE;type=VOICE;type=pref:(740) 339-3736
+TEL;type=WORK;type=VOICE:(304) 388-4385
+ADR;type=WORK:;;3200 MacCorkle Ave SE;Charleston;WV;25304;United States
+X-SOCIALPROFILE;type=linkedin:http://www.linkedin.com/in/https%3A//www.linkedin.com/in/kendallwyatt
 END:VCARD
